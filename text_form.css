@@ -1,0 +1,42 @@
+body {
+    font-size: 15px;
+    background-color: blue;
+}
+
+#header {
+    width: 700px;
+    height: 400px;
+    background-color: #ffffcc;
+    margin-left: 300px;
+}
+
+h1 {
+    background-color: #99ffff;
+    color: #1aa3ff;
+}
+
+label {
+    color: #1aa3ff;
+    float: left;
+    margin-left: 60px;
+    padding-right: 0px;
+    width: 160px;
+    font-size: 20px;
+    z
+}
+
+.name {
+    margin-bottom: 15px;
+    height: 20px;
+}
+
+.submit {
+    padding-left: 3px;
+    margin-left: 180px;
+    font-size: 23px;
+    margin-top: 20px;
+}
+
+:hover .submit {
+    cursor: pointer;
+}
